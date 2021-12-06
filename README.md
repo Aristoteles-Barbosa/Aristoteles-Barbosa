@@ -1,4 +1,4 @@
-###  👋 Olá! Meu nome Aristóteles Barbosa.
+###  👋 Olá! Meu nome Aristóteles Barbosa
 
 <div>
   <a href="https://github.com/Ari-nb">
